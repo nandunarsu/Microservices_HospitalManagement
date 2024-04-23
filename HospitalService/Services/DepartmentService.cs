@@ -65,6 +65,57 @@ namespace HospitalService.Services
             }
         }
 
+        public async Task<DepartmentRequest> UpdateDepartment(int DeptId, DepartmentRequest deptRequest)
+        {
+            try
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("DeptId", DeptId, DbType.Int64);
+                parameters.Add("DeptName", deptRequest.DeptName, DbType.String);
+                var query = "UPDATE Department SET DeptName = @DeptName WHERE DeptId=@DeptId;";
+                using (var connection = context.CreateConnection())
+                {
+                    int rowsaffected = await connection.ExecuteAsync(query, parameters);
+                    if (rowsaffected > 0)
+                    {
+                        return deptRequest;
+                    }
+                }
+                return null;
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine($"Exception occured while updating the department{ex.Message}");
+                return default;
+            }
+        }
+
+        public async Task<int> Deletedepartment(int DeptId)
+        {
+            try
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("DeptId", DeptId, DbType.Int64);
+                var query = "DELETE FROM Department WHERE DeptId=@DeptId;";
+                using (var connection = context.CreateConnection())
+                {
+                    var rowsaffected = await connection.ExecuteAsync(query, parameters);
+                    if (rowsaffected > 0)
+                    {
+                        return rowsaffected;
+                    }
+                    
+                }
+                return default;
+
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return default;
+            }
+        }
+
         public DepartmentEntity? getByDeptName(string name)
         {
             try

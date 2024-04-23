@@ -8,5 +8,9 @@ namespace HospitalService.Interface
         object? CreateDept(DepartmentRequest deptRequest);
         DepartmentEntity? getByDeptId(int id);
         DepartmentEntity? getByDeptName(string name);
+
+        public Task<DepartmentRequest> UpdateDepartment(int DeptId, DepartmentRequest deptRequest);
+
+        public Task<int> Deletedepartment(int DeptId);
     }
 }

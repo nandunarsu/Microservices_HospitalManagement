@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\model\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\model\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\model\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\model\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\model\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\entity\\doctorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|c:\\users\\nandini\\source\\repos\\hospitalservice\\hospitalservice\\entity\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD19303-3164-48C7-B6CF-3BF9D7FC0A4B}|HospitalService\\HospitalService.csproj|solutionrelative:hospitalservice\\entity\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,50 +74,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "HospitalService\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "HospitalService\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HospitalService\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "HospitalService\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:11:18.368Z",
+              "WhenOpened": "2024-04-23T06:48:10.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "HospitalService\\Services\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DoctorService.cs",
-              "RelativeToolTip": "HospitalService\\Services\\DoctorService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:58:47.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorRequest.cs",
-              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\DoctorRequest.cs",
-              "RelativeDocumentMoniker": "HospitalService\\Model\\DoctorRequest.cs",
-              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\DoctorRequest.cs",
-              "RelativeToolTip": "HospitalService\\Model\\DoctorRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:51:59.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IDoctor.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Interface\\IDoctor.cs",
               "RelativeDocumentMoniker": "HospitalService\\Interface\\IDoctor.cs",
@@ -136,27 +114,14 @@
               "RelativeDocumentMoniker": "HospitalService\\Controllers\\DepartmentController.cs",
               "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "HospitalService\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAYwKQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:36:21.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "HospitalService\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "HospitalService\\Services\\DepartmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:27:30.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Program.cs",
               "RelativeDocumentMoniker": "HospitalService\\Program.cs",
@@ -164,12 +129,24 @@
               "RelativeToolTip": "HospitalService\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:40:21.849Z",
+              "WhenOpened": "2024-04-22T09:40:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Interface\\IDepartment.cs",
+              "RelativeDocumentMoniker": "HospitalService\\Interface\\IDepartment.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Interface\\IDepartment.cs",
+              "RelativeToolTip": "HospitalService\\Interface\\IDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:24:15.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "DepartmentRequest.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\DepartmentRequest.cs",
               "RelativeDocumentMoniker": "HospitalService\\Model\\DepartmentRequest.cs",
@@ -182,7 +159,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalService\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Services\\DoctorService.cs",
+              "RelativeToolTip": "HospitalService\\Services\\DoctorService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:58:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\DoctorRequest.cs",
+              "RelativeDocumentMoniker": "HospitalService\\Model\\DoctorRequest.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\DoctorRequest.cs",
+              "RelativeToolTip": "HospitalService\\Model\\DoctorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:51:59.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalService\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalService\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:11:18.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DoctorEntity.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Entity\\DoctorEntity.cs",
               "RelativeDocumentMoniker": "HospitalService\\Entity\\DoctorEntity.cs",
@@ -190,12 +204,11 @@
               "RelativeToolTip": "HospitalService\\Entity\\DoctorEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:57:46.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:57:46.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Model\\ResponseModel.cs",
               "RelativeDocumentMoniker": "HospitalService\\Model\\ResponseModel.cs",
@@ -203,8 +216,7 @@
               "RelativeToolTip": "HospitalService\\Model\\ResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:57:30.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:57:30.48Z"
             },
             {
               "$type": "Document",
@@ -216,25 +228,11 @@
               "RelativeToolTip": "HospitalService\\Entity\\DepartmentEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:26:26.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:26:26.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IDepartment.cs",
-              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Interface\\IDepartment.cs",
-              "RelativeDocumentMoniker": "HospitalService\\Interface\\IDepartment.cs",
-              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Interface\\IDepartment.cs",
-              "RelativeToolTip": "HospitalService\\Interface\\IDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:24:15.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DapperContext.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\Context\\DapperContext.cs",
               "RelativeDocumentMoniker": "HospitalService\\Context\\DapperContext.cs",
@@ -242,12 +240,11 @@
               "RelativeToolTip": "HospitalService\\Context\\DapperContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:20:11.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:20:11.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "HospitalService\\WeatherForecast.cs",
@@ -255,12 +252,11 @@
               "RelativeToolTip": "HospitalService\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:41:47.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:41:47.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalService\\HospitalService\\appsettings.json",
               "RelativeDocumentMoniker": "HospitalService\\appsettings.json",
@@ -268,8 +264,7 @@
               "RelativeToolTip": "HospitalService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T09:22:54.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:22:54.363Z"
             },
             {
               "$type": "Document",
@@ -281,8 +276,7 @@
               "RelativeToolTip": "HospitalService\\HospitalService.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-22T09:22:51.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:22:51.151Z"
             }
           ]
         },
